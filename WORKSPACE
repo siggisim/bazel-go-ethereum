@@ -69,7 +69,7 @@ go_repository(
 
 go_repository(
     name = "in_gopkg_urfave_cli_v1",
-    commit = "cfb38830724cc34fedffe9a2a29fb54fa9169cd1",
+    commit = "aa1b27192cfe441ec1468207f66b6e121dbd81c2",
     importpath = "gopkg.in/urfave/cli.v1",
 )
 
@@ -99,7 +99,7 @@ go_repository(
 
 go_repository(
     name = "com_github_olekukonko_tablewriter",
-    commit = "e6d60cf7ba1f42d86d54cdf5508611c4aafb3970",
+    commit = "876dd0e0227ec99c0243b639b92139915b65331a",
     importpath = "github.com/olekukonko/tablewriter",
 )
 
@@ -111,7 +111,7 @@ go_repository(
 
 go_repository(
     name = "com_github_mattn_go_colorable",
-    commit = "efa589957cd060542a26d2dd7832fd6a6c6c3ade",
+    commit = "98ec13f34aabf44cc914c65a1cfb7b9bc815aef1",
     importpath = "github.com/mattn/go-colorable",
 )
 
@@ -129,7 +129,7 @@ go_repository(
 
 go_repository(
     name = "com_github_hashicorp_golang_lru",
-    commit = "20f1fb78b0740ba8c3cb143a61e86ba5c8669768",
+    commit = "14eae340515388ca95aa8e7b86f0de668e981f54",
     importpath = "github.com/hashicorp/golang-lru",
 )
 
@@ -141,7 +141,7 @@ go_repository(
 
 go_repository(
     name = "com_github_peterh_liner",
-    commit = "5a0dfa99e2aa1d433a9642e863da51402e609376",
+    commit = "f01956e11ba4dc7eb4d2de9c7dc621f825dcc9c9",
     importpath = "github.com/peterh/liner",
 )
 
@@ -261,7 +261,7 @@ go_repository(
 
 go_repository(
     name = "com_github_uber_jaeger_lib",
-    commit = "0e30338a695636fe5bcf7301e8030ce8dd2a8530",
+    commit = "a87ae9d84fb038a8d79266298970720be7c80fcd",
     importpath = "github.com/uber/jaeger-lib",
 )
 
@@ -285,7 +285,7 @@ go_repository(
 
 go_repository(
     name = "com_github_kr_pretty",
-    commit = "73f6ac0b30a98e433b289500d779f50c1a6f0712",
+    commit = "4e0886370c3a67530192c6a238cff68f56c141b0",
     importpath = "github.com/kr/pretty",
 )
 
@@ -297,7 +297,7 @@ go_repository(
 
 go_repository(
     name = "com_github_google_uuid",
-    commit = "9b3b1e0f5f99ae461456d768e7d301a7acdaa2d8",
+    commit = "0cd6bf5da1e1c83f8b45653022c74f71af0538a4",
     importpath = "github.com/google/uuid",
 )
 
@@ -321,7 +321,7 @@ go_repository(
 
 go_repository(
     name = "in_gopkg_sourcemap_v1",
-    commit = "6e83acea0053641eff084973fee085f0c193c61a",
+    commit = "b019cc30c1eaa584753491b0d8f8c1534bf1eb44",
     importpath = "gopkg.in/sourcemap.v1",
 )
 
